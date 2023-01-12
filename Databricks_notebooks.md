@@ -28,3 +28,28 @@ https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_
 
 2-Preliminary_EDA 
 https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/EDA_notebook/Preliminary_EDA.html
+
+# Cross_validation_Notebooks
+
+1-Cross_val_adaptation https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/cross_validation_notebook/cross_val_adaptation.html
+
+2-Custom_cv_demo https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/cross_validation_notebook/custom_cv_demo_Fall2022%20(1).html
+
+3-custom_cv_module https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/cross_validation_notebook/custom_cv_module.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
