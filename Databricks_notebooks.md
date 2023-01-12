@@ -38,6 +38,30 @@ https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_
 3-custom_cv_module https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/cross_validation_notebook/custom_cv_module.html
 
 
+# Model_Building
+
+1- Advanced_Models https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Advanced_Models.html
+
+2- Baseline_Models https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Baseline_Models.html
+
+3- Final_logistic_Regression https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Logistic_Regression.html
+
+4- Final_Logistic_Regression_Undersampled https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Logistric_Regression_Undersampled.html
+
+5-Final_Random_Forest https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Random_Forest.html
+
+6-Final_Random_Forest_Undersampled https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Random_Forest_Undersampled.html
+
+7-GBT_Model https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/GBT_Model.html
+
+8-GBT_Model_with_Undersample https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/GBT_Model_with_Undersampling.html
+
+9-MLPC_Model https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/MLPC_Model.html
+
+10- Process_data https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Process_data.html
+
+
+
 
 
 
