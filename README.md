@@ -5,7 +5,7 @@ This repository consists of Flight Delay Prediction Project by leveraging machin
 **Databricks notebooks are divided into multiple sections**
 
 ```diff
- - **Final Report**
+- **Final Report**
 
 In this notebook, you will see the full report of this Project. 
 
