@@ -1,11 +1,11 @@
 # Machine-Learning-At-Scale
-This repository consists of machine learning on Big Data using Pyspark in Microsoft Azure DataBricks. 
+This repository consists of Flight Delay Prediction Project by leveraging machine learning techniques on Big Data using Pyspark in Microsoft Azure DataBricks. 
 
 ##
 **Databricks notebooks are divided into multiple sections**
 
 ```diff
- -**Final Report**
+ - **Final Report**
 
 In this notebook, you will see the full report of this Project. 
 
