@@ -5,16 +5,23 @@ This repository consists of machine learning on Big Data using Pyspark in Micros
 **Databricks notebooks are divided into multiple sections**
 
 ```diff
-- **Section 1**
+- **Final Report**
 
-This section contains the + ***Final Report*** databricks notebooks. In this notebook you will see the full report of our Project. 
+In this notebook, you will see the full report of this Project. 
 
-- **Section 2**
+- **Data Clean up and Feature Engineering**
 
-This section contains all the + ***Data Clean up and Feature Engineering*** notebooks. 
+In this section, you will see all the databricks notebooks that relate to data clean-up and Feature Engineering
 
-- **Section 3**
+- **Exploratory Data Analysis**
 
-This section includes all the + ***Exploratory Data Analysis*** databricks notebooks. #f03c15
-@@ text in purple (and bold)@@
+In this section, you will see all the databricks notebooks that relate to Exploratory Data Analysis(EDA)
+
+- **Cross-Validation**
+
+In this section, you will see all the cross-validation notebooks
+
+- **Model_Building**
+
+In this section, you will see all the different models that were used in this project
 ```
