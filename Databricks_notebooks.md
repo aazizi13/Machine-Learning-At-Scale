@@ -28,7 +28,7 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/325e74e1c3ded100fc
 https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/ec00a11c8d9a34f827300ec4aa9b91701d3eff50/Section4_Group2_Fall_2022/EDA_notebook/Feature_engineering_EDA.html
 
 2-Preliminary_EDA 
-https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/EDA_notebook/Preliminary_EDA.html
+https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/ec00a11c8d9a34f827300ec4aa9b91701d3eff50/Section4_Group2_Fall_2022/EDA_notebook/Preliminary_EDA.html
 
 # Cross_validation_Notebooks
 
