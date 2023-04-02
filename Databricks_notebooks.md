@@ -12,7 +12,7 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/47697eb283f0684b95
 https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/8397bc94c4d8fd42cab8853353281d0f00012fe3/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Feature_engineering_train.html
 
 4-Last_Flight_delay
-https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/Last_Flight_Delayed.html
+https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/40e7285c21976edfb4948752b600a2ae96fbb971/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Last_Flight_Delayed.html
 
 5-Number_Previous_Flights_and_Prophet
 https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/Number_Previous_Flights_and_Prophet.html
