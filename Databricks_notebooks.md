@@ -6,7 +6,7 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/dda928171297b3af4d
 https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/aead3803703acabdab4207c5a0f2ca695667da62/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Data_cleanup_and_join.html
 
 2-Feature_Engineering_test
-https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/Feature_engineering_test.html
+https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/47697eb283f0684b9525229b18d25a6985078c70/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Feature_engineering_test.html
 
 3-Feature_Engineering_train
 https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/Feature_engineering_train.html
