@@ -20,7 +20,7 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/40e7285c21976edfb4
 6-Page_rank
 https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/325e74e1c3ded100fc225a02bc3de4a89ac7205f/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Pagerank_Calc.html
 
-7-given_joined_data_check https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/given_joined_data_check.html
+7-given_joined_data_check https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/325e74e1c3ded100fc225a02bc3de4a89ac7205f/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/given_joined_data_check.html
 
 
 # EDA_Notebook
