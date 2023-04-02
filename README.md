@@ -3,6 +3,8 @@
 
 - The machine learning algorithms used in this project include Logistic Regression, Random Forest, Gradient Boosted Tree(GBT), and Multi-layer Perceptron Classifier(MLPC)
 
+## NOTE: For a cleaner read, please refer to Databricks_notebooks
+
 ##
 **Databricks notebooks are divided into multiple sections**
 
