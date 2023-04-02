@@ -17,7 +17,8 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/40e7285c21976edfb4
 5-Number_Previous_Flights_and_Prophet
 https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/40e7285c21976edfb4948752b600a2ae96fbb971/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Number_Previous_Flights_and_Prophet.html
 
-6-Page_rank https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/Pagerank_Calc.html
+6-Page_rank
+https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/325e74e1c3ded100fc225a02bc3de4a89ac7205f/Section4_Group2_Fall_2022/Cleanup_Feature_engineering/Pagerank_Calc.html
 
 7-given_joined_data_check https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Cleanup_Feature_engineering/given_joined_data_check.html
 
