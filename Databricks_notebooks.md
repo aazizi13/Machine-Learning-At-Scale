@@ -38,7 +38,8 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/2f8ab9647b1b021352
 2-Custom_cv_demo 
 https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/b28665c76f1a19d07fb8f7cb882d3ecc057145fd/Section4_Group2_Fall_2022/cross_validation_notebook/custom_cv_demo_Fall2022%20(1).html
 
-3-custom_cv_module https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/cross_validation_notebook/custom_cv_module.html
+3-custom_cv_module
+https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/b28665c76f1a19d07fb8f7cb882d3ecc057145fd/Section4_Group2_Fall_2022/cross_validation_notebook/custom_cv_module.html
 
 
 # Model_Building
