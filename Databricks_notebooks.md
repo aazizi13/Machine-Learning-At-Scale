@@ -50,11 +50,11 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/b28665c76f1a19d07f
 
 3- Final_logistic_Regression https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/3c203a3fd76e1df7201204a142a5570e0b2dcc5b/Section4_Group2_Fall_2022/Model_building/Final_Logistic_Regression.html
 
-4- Final_Logistic_Regression_Undersampled https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Logistric_Regression_Undersampled.html
+4- Final_Logistic_Regression_Undersampled https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/3c203a3fd76e1df7201204a142a5570e0b2dcc5b/Section4_Group2_Fall_2022/Model_building/Final_Logistric_Regression_Undersampled.html
 
-5-Final_Random_Forest https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Random_Forest.html
+5-Final_Random_Forest https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/9ad4b49f22d2c6ecf6d95d82d7416a767ae8cd5c/Section4_Group2_Fall_2022/Model_building/Final_Random_Forest.html
 
-6-Final_Random_Forest_Undersampled https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Random_Forest_Undersampled.html
+6-Final_Random_Forest_Undersampled https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/9ad4b49f22d2c6ecf6d95d82d7416a767ae8cd5c/Section4_Group2_Fall_2022/Model_building/Final_Random_Forest_Undersampled.html
 
 7-GBT_Model https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/GBT_Model.html
 
