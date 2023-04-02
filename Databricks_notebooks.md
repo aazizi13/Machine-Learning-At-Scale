@@ -46,7 +46,7 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/b28665c76f1a19d07f
 
 1- Advanced_Models https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/572f74a37e1d9b82975db2479fee0515b8b97c96/Section4_Group2_Fall_2022/Model_building/Advanced_Models.html
 
-2- Baseline_Models https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Baseline_Models.html
+2- Baseline_Models https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/572f74a37e1d9b82975db2479fee0515b8b97c96/Section4_Group2_Fall_2022/Model_building/Baseline_Models.html
 
 3- Final_logistic_Regression https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Final_Logistic_Regression.html
 
