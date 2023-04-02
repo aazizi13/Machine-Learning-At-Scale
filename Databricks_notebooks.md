@@ -56,13 +56,13 @@ https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/b28665c76f1a19d07f
 
 6-Final_Random_Forest_Undersampled https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/9ad4b49f22d2c6ecf6d95d82d7416a767ae8cd5c/Section4_Group2_Fall_2022/Model_building/Final_Random_Forest_Undersampled.html
 
-7-GBT_Model https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/GBT_Model.html
+7-GBT_Model https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/c1c4dfa7d27b810565a4e8cb4361b107eec9084f/Section4_Group2_Fall_2022/Model_building/GBT_Model.html
 
-8-GBT_Model_with_Undersample https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/GBT_Model_with_Undersampling.html
+8-GBT_Model_with_Undersample https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/c1c4dfa7d27b810565a4e8cb4361b107eec9084f/Section4_Group2_Fall_2022/Model_building/GBT_Model_with_Undersampling.html
 
-9-MLPC_Model https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/MLPC_Model.html
+9-MLPC_Model https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/c1c4dfa7d27b810565a4e8cb4361b107eec9084f/Section4_Group2_Fall_2022/Model_building/MLPC_Model.html
 
-10- Process_data https://raw.githack.com/aazizi13/Machine-Learning-At-Scale/main/project_Jupyter_notebook_&_Databricks_notebooks/Model_building/Process_data.html
+10- Process_data https://rawcdn.githack.com/aazizi13/Machine-Learning-At-Scale/c1c4dfa7d27b810565a4e8cb4361b107eec9084f/Section4_Group2_Fall_2022/Model_building/Process_data.html
 
 
 
